@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59768f68-8f55-4eb6-ba32-99c09d0f4753" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/view/main/Fields.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/view/main/Fields.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1xaCGaIF3QngIPIgR5JWGVncQdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\osuroyakova\Projects\Extjs-app\app\view\templates" />
+      <recent name="C:\Users\osuroyakova\Projects\Extjs-app\app\view" />
+      <recent name="C:\Users\osuroyakova\Extjs-app\app\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.Sencha app watch">
+    <configuration name="Sencha app watch" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="sencha app watch" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sencha build app" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="sencha app build development " />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="false" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Shell Script.Sencha build app" />
+      <item itemvalue="Shell Script.Sencha app watch" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59768f68-8f55-4eb6-ba32-99c09d0f4753" name="Changes" comment="" />
+      <created>1630583717124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630583717124</updated>
+      <workItem from="1630583719025" duration="10761000" />
+      <workItem from="1630595107930" duration="5293000" />
+      <workItem from="1630656142779" duration="26325000" />
+      <workItem from="1630911344957" duration="8682000" />
+      <workItem from="1630933757374" duration="349000" />
+      <workItem from="1630934884565" duration="1985000" />
+      <workItem from="1630997012231" duration="12445000" />
+      <workItem from="1631020821502" duration="16000" />
+      <workItem from="1631024436509" duration="882000" />
+      <workItem from="1631084101951" duration="4801000" />
+      <workItem from="1631173629915" duration="8759000" />
+      <workItem from="1631190707249" duration="3319000" />
+      <workItem from="1631256937912" duration="18199000" />
+      <workItem from="1631515969041" duration="14958000" />
+      <workItem from="1631532156622" duration="608000" />
+      <workItem from="1631534675396" duration="594000" />
+      <workItem from="1631602295717" duration="285000" />
+      <workItem from="1631604551261" duration="10081000" />
+      <workItem from="1631628907168" duration="746000" />
+      <workItem from="1631690331545" duration="3251000" />
+      <workItem from="1631715179591" duration="184000" />
+      <workItem from="1631775388338" duration="418000" />
+      <workItem from="1631779214205" duration="888000" />
+      <workItem from="1631780123510" duration="2892000" />
+      <workItem from="1631863849424" duration="3532000" />
+      <workItem from="1632123132920" duration="836000" />
+      <workItem from="1632124705126" duration="705000" />
+      <workItem from="1632207344667" duration="590000" />
+      <workItem from="1635156979192" duration="38000" />
+    </task>
+    <task id="LOCAL-00001" summary="VDK-1141 Обучение Задание 1">
+      <created>1630655005046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630655005046</updated>
+    </task>
+    <task id="LOCAL-00002" summary="VDK-1141 Обучение">
+      <created>1630670645511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630670645511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="VDK-1141 Обучение">
+      <created>1630911680084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630911680084</updated>
+    </task>
+    <task id="LOCAL-00004" summary="VDK-1141 Обучение">
+      <created>1631017746243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631017746243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="VDK-1141 Обучение">
+      <created>1631194879627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631194879627</updated>
+    </task>
+    <task id="LOCAL-00006" summary="VDK-1141 Обучение">
+      <created>1631287621661</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631287621661</updated>
+    </task>
+    <task id="LOCAL-00007" summary="VDK-1141 Обучение">
+      <created>1631528372825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631528372825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="VDK-1141 Обучение">
+      <created>1631690421031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631690421031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="VDK-1141 Обучение">
+      <created>1631780300721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1631780300721</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="44222019-1d6b-4412-99f0-8f697130f0a4">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/osuroyakova/Projects/Extjs-app/app" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="44222019-1d6b-4412-99f0-8f697130f0a4" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VDK-1141 Обучение Задание 1" />
+    <MESSAGE value="VDK-1141 Обучение" />
+    <option name="LAST_COMMIT_MESSAGE" value="VDK-1141 Обучение" />
+  </component>
+</project>

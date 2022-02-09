@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name=".install4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/.install4j/user.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/.install4j/i4jruntime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

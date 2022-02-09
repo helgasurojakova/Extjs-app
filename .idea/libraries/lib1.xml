@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/jre/lib/jsse.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/jre/lib/resources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/jre/lib/charsets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/jre/lib/jce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/jre/lib/management-agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/Sencha/Cmd/7.4.0.39/jre/lib/rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
